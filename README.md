@@ -66,6 +66,12 @@ The app will run on http://localhost:3000
 ### API Endpoint:
 https://api.quicksell.co/v1/internal/frontend-assignment
 
-## 📞 Contact
-### Name: Chhavi Gupta
-### E-mail: studychhavi03@gmail.com
+## Screenshots
+<img width="1470" alt="Screenshot 2024-11-18 at 11 17 27 PM" src="https://github.com/user-attachments/assets/10a70205-17d0-4843-8a88-0ef6556e85f7">
+
+<img width="1470" alt="Screenshot 2024-11-18 at 11 17 50 PM" src="https://github.com/user-attachments/assets/f2e86662-3cee-4b51-aa78-f3f57954113f">
+
+<img width="349" alt="Screenshot 2024-11-18 at 11 18 28 PM" src="https://github.com/user-attachments/assets/e6aca620-932a-4af3-bb86-9c845ed75e94">
+
+
+## Made with ❤ by Chhavi
